@@ -824,6 +824,7 @@ p {
     width: 100vw;
     text-align: center;
     margin-top: 0;
+    padding: 15px;
 }
 
 table a {

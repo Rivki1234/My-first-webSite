@@ -44,7 +44,9 @@ header {
 header {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
+
 }
+
 img {
     box-shadow: 0px 0px 10px #09010152;
     width: 100%;
@@ -1158,6 +1160,11 @@ header ul li li {
     font-size: 1.2rem;
     height: 12px;
 }
+
+.header_ul li {
+    width: 21vw;
+}
+
 /* 
 header {
     width: 100vw;

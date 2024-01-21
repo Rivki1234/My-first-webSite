@@ -423,6 +423,7 @@ td {
     flex-wrap: nowrap;
     gap: 5px;
     padding-right: 15px;
+    justify-content: space-between;
 }
 
 .conect h3 {
@@ -714,6 +715,10 @@ dl {
 
     .logo_words {
         display: block;
+    }
+
+    .conect ,#sharing{
+        padding-right: 80px;
     }
 }
 
@@ -1129,7 +1134,7 @@ td {
 
     #sharing {
         display: grid;
-        padding: 30px;
+        padding-bottom: 15px;
         align-items: end;
     }
 

@@ -422,6 +422,7 @@ td {
     flex-direction: column;
     flex-wrap: nowrap;
     gap: 5px;
+    padding-right: 15px;
 }
 
 .conect h3 {
